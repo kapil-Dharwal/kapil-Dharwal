@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, Welcome to my Git Profile</h1>
 <h3 align="center">i'm self learner !!</h3>
 
--👋, I'm Sohan maali
+-👋, I'm Kapil Dharwal
 
 -👀 I’m interested in ...Know New things
 
--🌱 I’m currently learning <strong>full stack web development from infobeans foundation<strong>
+-🌱 I’m currently learning <strong>Full stack Web Development from Infobeans Foundation<strong>
 
--👨‍💻 All of my projects are available at https://github.com/Sohanmaali
+-👨‍💻 All of my projects are available at https://github.com/kapil-Dharwal
 
--📫 How to reach me sohanmaali4@gmail.com
+-📫 How to reach me kapildharwal10092000@gmail.com
 
 -⚡ Fun fact *I think I am funny 😂* 
 
@@ -21,12 +21,12 @@
 <p align="left">
 <!-- <a href="https://codepen.io/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rahuldkjain" height="30" width="40" /></a> -->
 <!-- <a href="https://dev.to/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rahuldkjain" height="30" width="40" /></a> -->
-<a href="https://twitter.com/sohanmaali7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sohanmaali" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sohan-un-6b3795282" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Sohan maali" height="30" width="40" /></a>
-<a href="https://instagram.com/sohan_maali1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Sohan_maali1" height="30" width="40"/></a>
+<a href="https://twitter.com/kapildharwal888" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kapildharwal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/Kapil-Dharwal-6b3795282" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Sohan maali" height="30" width="40" /></a>
+<a href="https://instagram.com/kapluumaali1234" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Sohan_maali1" height="30" width="40"/></a>
 </p>
 
-<!-- **📕 Latest dev.to posts [@sohanmaali](https://dev.to/sohanmaali)** -->
+<!-- **📕 Latest dev.to posts [@kapildharwal](https://dev.to/@kapildharwal)** -->
 <!-- BLOG-POST-LIST:START 
 - [How I improved my GitHub profile?](https://dev.to/rahuldkjain/how-i-improved-my-github-profile-480c)
 - [Awesome FrontendMasters course resources](https://dev.to/rahuldkjain/awesome-frontendmasters-course-resources-1gj2)
