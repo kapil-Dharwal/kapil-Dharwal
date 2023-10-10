@@ -62,7 +62,7 @@
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sohanmaali&show_icons=true&locale=en&layout=compact" alt="kapildharwal" /></p>
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=Sohanmaali&show_icons=true alt=sohanmaali /> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sohanmaali&" alt="sohanmaali" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapildharwal&show_icons=true&locale=en&layout=compact" alt="kapildharwal" /></p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=kapildharwal&show_icons=true alt=kapildharwal /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kapildharwal&" alt="kapildharwal" /></p>
 <!-- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
