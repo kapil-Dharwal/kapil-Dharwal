@@ -23,7 +23,7 @@
 <!-- <a href="https://dev.to/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rahuldkjain" height="30" width="40" /></a> -->
 <a href="https://twitter.com/kapildharwal888" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kapildharwal" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/Kapil-Dharwal-6b3795282" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Sohan maali" height="30" width="40" /></a>
-<a href="https://instagram.com/kapluumaali1234" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Sohan_maali1" height="30" width="40"/></a>
+<a href="https://instagram.com/kapluuu__maali__1234" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Sohan_maali1" height="30" width="40"/></a>
 </p>
 
 <!-- **📕 Latest dev.to posts [@kapildharwal](https://dev.to/@kapildharwal)** -->
